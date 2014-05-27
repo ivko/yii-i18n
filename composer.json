@@ -1,0 +1,13 @@
+{
+    "name": "ivko/yii-i18n",
+    "description": "Yii Internationalization",
+    "authors": [
+        {
+            "name": "IvKo"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        
+    }
+}
